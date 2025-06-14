@@ -1,2 +1,2 @@
 # simpleproject
-my simple projects are here
+my simple projects with simple ui
